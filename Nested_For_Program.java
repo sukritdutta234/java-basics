@@ -2,7 +2,7 @@ package javabasics;
 
 public class Nested_For_Program {
     /*
-    *
+    *WAP to show this pattern
     * *
     * **
     * ***
@@ -18,3 +18,4 @@ public class Nested_For_Program {
         }
     }
 }
+
